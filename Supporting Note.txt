@@ -1,0 +1,7 @@
+The following tasks were completed privately during the development process but were not included in the final code base. I hesitated to include them directly in the script. I opted to minimize the inclusion of visualizations within the Python script.
+
+Exploratory Data Analysis: Various analyses were conducted, including univariate, bivariate, and multivariate analyses, as well as correlation analysis, to understand the data better.
+Feature Importance: This analysis was performed, and the results were captured in a picture submitted separately. When the two features with the lowest feature importance were dropped, there was no major improvement to the model. As a result, no feature was dropped.
+Classification Report: A comprehensive classification report detailing metrics such as accuracy, precision, recall, and F1-score was generated but not included in the script.
+Confusion Matrix: The confusion matrix, which provides insights into the model's performance, was created but not integrated into the script.
+Cross Validation: Due to data imbalance, cross-validation was performed to assess model performance. However, the results obtained were deemed unsatisfactory.
